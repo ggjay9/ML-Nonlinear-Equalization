@@ -1,4 +1,4 @@
-# Machine Learning
+# ML Nonlinear Equalization
 
 **Nonlinear Equalization of a Complex Upsampled Signal**: This involves handling a signal that has been upsampled, pulse-shaped, and affected by noise, inter-symbol interference, and nonlinear effects. The tasks include:
 
